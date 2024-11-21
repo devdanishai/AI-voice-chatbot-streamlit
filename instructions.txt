@@ -1,0 +1,19 @@
+your_project_folder/
+│
+├── venv/
+├── temp_audio/
+├── .env
+├── requirements.txt
+└── app.py
+
+The application will:
+
+Listen for voice input
+Convert speech to text
+Send the text to Groq API
+Get response from Groq
+Convert response to speech
+Play the response
+Keep chat history
+
+
